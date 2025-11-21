@@ -8,7 +8,7 @@ A interface permite ao usuário selecionar o tipo de ingresso, informar a quanti
 
 ## 🖼️ Preview
 
-
+https://aula-ingresso.vercel.app/
 
 ---
 
